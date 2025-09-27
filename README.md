@@ -1,0 +1,2 @@
+# first
+project latihan
